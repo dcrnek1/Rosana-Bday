@@ -25,7 +25,7 @@ function App() {
           <div className="pb-2 -mt-2 text-2xl font-bold">
             Martincu Orehovičkom 91
           </div>
-          <div className="-mt-1 mb-2">21.06.2025. u 14:00 sati</div>
+          <div className="-mt-1 mb-2">21.06.2025. u <span className="font-bolder">14:00</span> sati</div>
           <div>Veselimo se vašem dolasku!</div>
         </div>
         <a href="https://maps.app.goo.gl/mHn2K9k5czh5nMwa6" target="_blank" rel="noopener noreferrer">
